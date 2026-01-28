@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "editor.defaultFormatter": "ms-python.python",
+    "files.associations": {"**/templates/**/*.html":"django-html"},
+    "emmet.includeLanguages": {"django-html": "html"}
+}
